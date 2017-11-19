@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VS_Snek", "VS_Snek\VS_Snek.pyproj", "{7A13440B-9DF5-4AE4-90E2-4AAB4EEF609D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A13440B-9DF5-4AE4-90E2-4AAB4EEF609D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13440B-9DF5-4AE4-90E2-4AAB4EEF609D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9AA5FF4-377A-4048-8205-2A4E2DB70534}
+	EndGlobalSection
+EndGlobal
